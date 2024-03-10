@@ -37,27 +37,51 @@ sudo setoolkit
 
 ## Screenshot of the output:
 
+### BITS username
+
 ![BITS username](credential-harvesting/bits-username.PNG)
+
+### SET start
 
 ![SET start](credential-harvesting/SET%20start%20menu.PNG)
 
+### Social-Engineering Attacks
+
 ![Social-Engineering Attacks](credential-harvesting/selecting%20social%20engineering.PNG)
+
+### Website Attack Vectors
 
 ![Website Attack Vectors](credential-harvesting/web%20attack%20vector%20sepect.PNG)
 
+### Credential Harvester Attack Method
+
 ![Credential Harvester Attack Method](credential-harvesting/Selecting%20credential%20harvester.PNG)
+
+### Web Template
 
 ![Web Template](credential-harvesting/selecting%20webTemplate.PNG)
 
+### Setting IP
+
 ![Setting IP](credential-harvesting/setting%20ip.PNG)
+
+### Selecting Twitter Default Template
 
 ![Selecting Twitter Default Template](credential-harvesting/selecting%20twitter%20template.PNG)
 
+### Default cloning done for twitter
+
 ![Default cloning done for twitter](credential-harvesting/default%20cloning%20done%20for%20twitter.PNG)
+
+### Default cloning in browser with creds
 
 ![Default cloning in browser with creds](credential-harvesting/default%20cloining%20in%20browser%20with%20creds.PNG)
 
+### Exploit: Credentials captured for twitter
+
 ![Exploit: Credentials captured for twitter](credential-harvesting/creds%20captured%20for%20twitter.PNG)
+
+### After login click url switched to main twitter website
 
 ![After login click url switched to main twitter website](credential-harvesting/main%20twitter%20website.PNG)
 
@@ -99,34 +123,61 @@ sudo setoolkit
 
 ## Screenshot of the output:
 
+### BITS username
+
 ![BITS username](credential-harvesting/bits-username.PNG)
+
+### SET start
 
 ![SET start](credential-harvesting/SET%20start%20menu.PNG)
 
+### Social-Engineering Attacks
+
 ![Social-Engineering Attacks](credential-harvesting/selecting%20social%20engineering.PNG)
+
+### Create payload and listener
 
 ![Create payload and listener](meterpreter/create%20payload%20and%20listener.PNG)
 
+### Select Reverse TCP meterpreter
+
 ![Select Reverse TCP meterpreter](meterpreter/select%20reverse%20tcp.PNG)
+
+### Set IP, PORT and create payload.exe
 
 ![Set IP, PORT and create payload.exe](meterpreter/set%20ip%20port%20and%20payload.PNG)
 
+### Listener Started for payload hit from user
+
 ![Listener Started for payload hit from user](meterpreter/reverse%20tcp%20server%20started.PNG)
+
+### Python http server started for payload transfer to user host
 
 ![Python http server started for payload transfer to user host](meterpreter/server%20on%20for%20ftp.PNG)
 
+### payload.exe downloaded on user machine
+
 ![payload.exe downloaded on user machine](meterpreter/payload%20download.PNG)
+
+### After user double click twice meterpreter listerner activated with live session
 
 ![After user double click twice meterpreter listerner activated with live session](meterpreter/sessions%202%20opened.PNG)
 
+### Sessions ids created
+
 ![Sessions ids created](meterpreter/sessions%20created.PNG)
+
+### Start session interaction with meterpreter prompt and getuid
 
 ![Start session interaction with meterpreter prompt and getuid](meterpreter/session%20interaction%20started%20with%20getuid.PNG)
 
+### Check ipconfig
+
 ![Check ipconfig](meterpreter/meterpreter%20ifconfig.PNG)
 
-![Exploit with taking shell](meterpreter/taking%20shell.PNG)
+### Exploit with taking shell
 
+![Exploit with taking shell](meterpreter/taking%20shell.PNG)
 
 
 ## Alternative Tools:
