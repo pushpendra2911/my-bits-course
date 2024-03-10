@@ -37,29 +37,29 @@ sudo setoolkit
 
 ## Screenshot of the output:
 
-![](credential-harvesting/bits-username.PNG "BITS username")
+![BITS username](credential-harvesting/bits-username.PNG)
 
-![](credential-harvesting/SET%20start%20menu.PNG "SET start")
+![SET start](credential-harvesting/SET%20start%20menu.PNG)
 
-![](credential-harvesting/selecting%20social%20engineering.PNG "Social-Engineering Attacks")
+![Social-Engineering Attacks](credential-harvesting/selecting%20social%20engineering.PNG)
 
-![](credential-harvesting/web%20attack%20vector%20sepect.PNG "Website Attack Vectors")
+![Website Attack Vectors](credential-harvesting/web%20attack%20vector%20sepect.PNG)
 
-![](credential-harvesting/Selecting%20credential%20harvester.PNG "Credential Harvester Attack Method")
+![Credential Harvester Attack Method](credential-harvesting/Selecting%20credential%20harvester.PNG)
 
-![](credential-harvesting/selecting%20webTemplate.PNG "Web Template")
+![Web Template](credential-harvesting/selecting%20webTemplate.PNG)
 
-![](credential-harvesting/setting%20ip.PNG "Setting IP")
+![Setting IP](credential-harvesting/setting%20ip.PNG)
 
-![](credential-harvesting/selecting%20twitter%20template.PNG "Selecting Twitter Default Template")
+![Selecting Twitter Default Template](credential-harvesting/selecting%20twitter%20template.PNG)
 
-![](credential-harvesting/default%20cloning%20done%20for%20twitter.PNG "Default cloning done for twitter")
+![Default cloning done for twitter](credential-harvesting/default%20cloning%20done%20for%20twitter.PNG)
 
-![](credential-harvesting/default%20cloining%20in%20browser%20with%20creds.PNG "Default cloning in browser with creds")
+![Default cloning in browser with creds](credential-harvesting/default%20cloining%20in%20browser%20with%20creds.PNG)
 
-![](credential-harvesting/creds%20captured%20for%20twitter.PNG "Exploit: Credentials captured for twitter")
+![Exploit: Credentials captured for twitter](credential-harvesting/creds%20captured%20for%20twitter.PNG)
 
-![](credential-harvesting/main%20twitter%20website.PNG "After login click url switched to main twitter website")
+![After login click url switched to main twitter website](credential-harvesting/main%20twitter%20website.PNG)
 
 ## Alternative Tools:
 
@@ -99,33 +99,33 @@ sudo setoolkit
 
 ## Screenshot of the output:
 
-![](credential-harvesting/bits-username.PNG "BITS username")
+![BITS username](credential-harvesting/bits-username.PNG)
 
-![](credential-harvesting/SET%20start%20menu.PNG "SET start")
+![SET start](credential-harvesting/SET%20start%20menu.PNG)
 
-![](credential-harvesting/selecting%20social%20engineering.PNG "Social-Engineering Attacks")
+![Social-Engineering Attacks](credential-harvesting/selecting%20social%20engineering.PNG)
 
-![](meterpreter/create%20payload%20and%20listener.PNG "Create payload and listener")
+![Create payload and listener](meterpreter/create%20payload%20and%20listener.PNG)
 
-![](meterpreter/select%20reverse%20tcp.PNG "Select Reverse TCP meterpreter")
+![Select Reverse TCP meterpreter](meterpreter/select%20reverse%20tcp.PNG)
 
-![](meterpreter/set%20ip%20port%20and%20payload.PNG "Set IP, PORT and create payload.exe")
+![Set IP, PORT and create payload.exe](meterpreter/set%20ip%20port%20and%20payload.PNG)
 
-![](meterpreter/reverse%20tcp%20server%20started.PNG "Listener Started for payload hit from user")
+![Listener Started for payload hit from user](meterpreter/reverse%20tcp%20server%20started.PNG)
 
-![](meterpreter/server%20on%20for%20ftp.PNG "Python http server started for payload transfer to user host")
+![Python http server started for payload transfer to user host](meterpreter/server%20on%20for%20ftp.PNG)
 
-![](meterpreter/payload%20download.PNG "payload.exe downloaded on user machine")
+![payload.exe downloaded on user machine](meterpreter/payload%20download.PNG)
 
-![](meterpreter/sessions%202%20opened.PNG "After user double click twice meterpreter listerner activated with live session")
+![After user double click twice meterpreter listerner activated with live session](meterpreter/sessions%202%20opened.PNG)
 
-![](meterpreter/sessions%20created.PNG "Sessions ids created")
+![Sessions ids created](meterpreter/sessions%20created.PNG)
 
-![](meterpreter/session%20interaction%20started%20with%20getuid.PNG "Start session interaction with meterpreter prompt and getuid")
+![Start session interaction with meterpreter prompt and getuid](meterpreter/session%20interaction%20started%20with%20getuid.PNG)
 
-![](meterpreter/meterpreter%20ifconfig.PNG "Check ipconfig")
+![Check ipconfig](meterpreter/meterpreter%20ifconfig.PNG)
 
-![](meterpreter/taking%20shell.PNG "Exploit with taking shell")
+![Exploit with taking shell](meterpreter/taking%20shell.PNG)
 
 
 
